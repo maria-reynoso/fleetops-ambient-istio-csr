@@ -1,4 +1,4 @@
-# fleetops-gke-ambient
+# Fleetops: Ambient + istio-csr + Firefly
 
 ## Pre-requisites
 - Have a cluster running a supported version of Kubernetes (1.27, 1.28, 1.29, 1.30), (GKE for this case) which has outbound access to the internet, specifically using a tenant from the TLS Protect Cloud domain.
